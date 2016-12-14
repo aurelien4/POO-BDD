@@ -1,0 +1,46 @@
+{
+  "Produits": [
+    {
+      "id":1,
+      "nom": "pull-hover",
+      "couleur": "Bleu",
+      "taille": "M",
+      "prixHc": 8
+    },
+    {
+      "id":2,
+      "nom": "pull",
+      "couleur": "Noir",
+      "taille": "XL",
+      "prixHc": 15
+    },
+    {
+      "id":3,
+      "nom": "chausette",
+      "couleur": "Rouge",
+      "taille": "S",
+      "prixHc": 5
+    },
+    {
+      "id":4,
+      "nom": "Jean",
+      "couleur": "gris",
+      "taille": "S",
+      "prixHc": 25
+    },
+    {
+      "id":5,
+      "nom": "Ceinture",
+      "couleur": "noir",
+      "taille": "XL",
+      "prixHc": 5
+    },
+    {
+      "id":6,
+      "nom": "Chemise",
+      "couleur": "Blanche",
+      "taille": "XL",
+      "prixHc": 30
+    }
+  ]
+}
